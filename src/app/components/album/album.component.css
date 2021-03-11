@@ -1,0 +1,9 @@
+.btn {
+    float: right;
+    cursor: pointer;
+    margin: 5px;
+}
+
+.btn-del {
+    color: red;
+}

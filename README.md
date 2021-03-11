@@ -1,3 +1,26 @@
+# Simple photo album web-app
+
+* Shows list of users when app is leaded
+* Each user has a number of albums
+* Each album contains a number of pictures
+* On albums page user can create and delete albums
+
+# Running the app
+
+* Open angular-photoalbum in VSC
+* run ng serve --open in terminal
+
+
+# Still to implement
+
+* Log-file for logging all the actions
+* Possibility to see picture in full-size
+* User page should have a section displaying user actions metrics E.g. "Albums: 5, Created: 1, Deleted: 2,"
+
+
+
+
+
 # AngularPhotoalbum
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.3.

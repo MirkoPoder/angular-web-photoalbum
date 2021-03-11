@@ -1,0 +1,11 @@
+.btn {
+    float: right;
+    cursor: pointer;
+
+}
+
+.user {
+    padding: 10px;
+    border-bottom: 1px dotted;
+    background: #f4f4f4;
+}

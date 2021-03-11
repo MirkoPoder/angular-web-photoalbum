@@ -1,0 +1,7 @@
+<app-add-album (addAlbum)="addAlbum($event)"></app-add-album>
+<app-album
+  *ngFor="let album of albums"
+  [album]="album"
+  (deleteAlbum)="deleteAlbum($event)"
+>
+</app-album>

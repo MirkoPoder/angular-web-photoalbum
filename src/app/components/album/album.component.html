@@ -1,0 +1,7 @@
+<div [ngClass]="setClasses()" class="container">
+  <br />
+  {{ album.title }}
+  <button (click)="onDelete(album)" class="btn btn-del">Delete</button>
+
+  <button (click)="onRef(album)" class="btn">Pictures</button>
+</div>

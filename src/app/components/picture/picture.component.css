@@ -1,0 +1,11 @@
+ul {
+  padding: 0;
+  width: 200px;
+  margin: 20px auto;
+}
+
+.tn {
+  margin: 6px;
+  border: 2px solid #eee;
+  box-shadow: #555 1px 1px 8px 1px;
+}

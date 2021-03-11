@@ -1,0 +1,10 @@
+<div [ngClass]="setClasses()" class="container">
+  <br/>
+    {{ user.id }}. 
+    {{ user.name }}
+
+    <button 
+    (click)="onRef(user)"
+    class="btn del">Albums</button>
+
+</div>
